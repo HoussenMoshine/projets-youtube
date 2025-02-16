@@ -72,7 +72,7 @@ Pour une explication plus détaillée et une démonstration visuelle de l'instal
 
 Pour plus d'informations sur Flowise et pour accéder à la configuration Docker Compose complète, consultez le dépôt officiel :
 
-[https://github.com/FlowiseAI/Flowise] (Dépot officiel Github de Flowise)
+[Dépot officiel Github de Flowise](https://github.com/FlowiseAI/Flowise)
 
 ## Avertissement
 
