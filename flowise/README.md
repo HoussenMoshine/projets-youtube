@@ -66,7 +66,7 @@ Ce répertoire contient une configuration Docker Compose simplifiée pour instal
 
 Pour une explication plus détaillée et une démonstration visuelle de l'installation et de la configuration, regardez la vidéo YouTube associée :
 
-*[Ma vidéo Youtube sur l'installation de Flowise via Docker]*  **(https://youtu.be/KOmf3iBYHOo)**
+[Ma vidéo Youtube sur l'installation de Flowise via Docker](https://youtu.be/KOmf3iBYHOo)
 
 ## Dépôt Officiel de Flowise
 
