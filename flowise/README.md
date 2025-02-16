@@ -21,8 +21,8 @@ Ce répertoire contient une configuration Docker Compose simplifiée pour instal
 2.  **Cloner le dépôt (si ce n'est pas déjà fait):**
 
     ```bash
-    git clone <URL_de_votre_depot>
-    cd <nom_du_dossier_de_votre_depot>/flowise
+    git clone https://github.com/HoussenMoshine/projets-youtube/tree/main
+    cd projets-youtube/flowise
 
     ```
    (Remplacez `<URL_de_votre_depot>` et `<nom_du_dossier_de_votre_depot>` par l'url et le nom de votre dépot)
@@ -72,7 +72,7 @@ Pour une explication plus détaillée et une démonstration visuelle de l'instal
 
 Pour plus d'informations sur Flowise et pour accéder à la configuration Docker Compose complète, consultez le dépôt officiel :
 
-[Lien vers le dépôt officiel de Flowise] (Ajouter le lien)
+[https://github.com/FlowiseAI/Flowise](Dépot officiel Github de Flowise)
 
 ## Avertissement
 
